@@ -1,3 +1,6 @@
+> Repositório arquivado — projeto de estudo inicial, mantido como histórico de aprendizado.
+
+
 Este projeto foi criado para praticar JavaScript, especialmente lógica de programação, manipulação do DOM, validações e eventos. </br>
 
 O projeto inclui validações inteligentes de peso e altura, mensagens claras, cores dinâmicas baseadas no resultado e uma interface responsiva. </br>
